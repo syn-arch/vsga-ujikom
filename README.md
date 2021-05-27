@@ -2,8 +2,13 @@
 Merupakan sebuah aplikasi yang digunakan untuk melakukan pendaftaran siswa baru, ditujukan untuk memnuhi penugasan ujikompetensi pada pelatihan VSGA 2021 tepatnya di telkom university
 
 ## Pemasangan
-Pindahkan folder project ke dalam htdocs,B kemudian import file db_psbonline.sql kedalam phpmyadmin
-akses projectnya dengan mengakses http://localhost/psb_online
+Pertama install dependecies php terlebih dahulu menggunakan composer  
+```bash
+composer install
+```
+
+Pindahkan folder project ke dalam htdocs,B kemudian import file db_psbonline.sql kedalam phpmyadmin  
+buka projectnya dengan mengakses http://localhost/psb_online
 
 ## Kontribusi
 Anda bebas kontribusi kedalam project ini dengan melakukan pull request, Silahkan masuk kedalam forum diskusi untuk bertanya terkait project
