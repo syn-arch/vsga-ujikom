@@ -12,9 +12,9 @@ Anda bebas kontribusi kedalam project ini dengan melakukan pull request, Silahka
 MIT
 
 ## Author
-Fb : http://fb.com/dy.vect__
-Instagram : http://fb.com/dyatnas__
-Github : http://github.com/syn-arch__
+Fb : http://fb.com/dy.vect  
+Instagram : http://fb.com/dyatnas  
+Github : http://github.com/syn-arch  
 
 ## Version
 Versi 0.0.1
