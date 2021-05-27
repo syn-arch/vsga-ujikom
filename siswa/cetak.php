@@ -33,7 +33,7 @@ $html = '<table cellpadding="20" border="1" cellspacing="0">
 				</th>
 			</tr>
 		</thead>
-	</table>>';
+	</table>';
 
 $dompdf->loadHtml($html);
 
