@@ -1,5 +1,5 @@
 # PSB ONLINE
-Merupakan sebuah aplikasi yang digunakan untuk melakukan pendaftaran siswa baru
+Merupakan sebuah aplikasi yang digunakan untuk melakukan pendaftaran siswa baru, ditujukan untuk memnuhi penugasan ujikompetensi pada pelatihan VSGA 2021 tepatnya di telkom university
 
 ## Pemasangan
 Pindahkan folder project ke dalam htdocs,B kemudian import file db_psbonline.sql kedalam phpmyadmin
